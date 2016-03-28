@@ -1,6 +1,6 @@
 # reflections-service
 
-This project is inspired by [Hardwiring Happiness](http://www.amazon.com/gp/product/B00CCPIIZK/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
+This project is inspired by the book [Hardwiring Happiness](http://www.amazon.com/gp/product/B00CCPIIZK/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 
 >Imagine that your mind is like a garden. You could simply be with it, looking at its weeds and flowers without judging or changing anything. Second, you could pull weeds by decreasing what's negative in your mind. Third, you could grow flowers by increasing the positive in your mind. In essence, you can manage your mind in three primary ways: let be, let go, let in.
 
