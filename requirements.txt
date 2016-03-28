@@ -1,0 +1,6 @@
+Django==1.8.3
+Padding==0.4
+keen==0.3.16
+pycrypto==2.6.1
+requests==2.7.0
+wsgiref==0.1.2

@@ -1,2 +1,4 @@
+config.py
+db.sqlite3
+.DS_Store
 *.pyc
-.DS_store
